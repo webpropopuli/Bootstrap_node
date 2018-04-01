@@ -1,0 +1,9 @@
+{
+  "name": "bootstrapper",
+  "version": "0.0.0",
+  "description": "Bootstrapper",
+  "main": "server.js",
+  "author": {
+    "name": "David Marlowe"
+  }
+}
